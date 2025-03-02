@@ -1,0 +1,21 @@
+/* Shared Styles */
+.display-flex{
+    display:flex;
+}
+
+/* nav styles */
+
+nav{
+    justify-content: space-between;
+    
+}
+nav ul{
+    gap:34px;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+}
+nav a{
+    text-decoration: none;
+}
